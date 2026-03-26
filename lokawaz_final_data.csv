@@ -1,0 +1,93 @@
+id,date,source,headline,category,sentiment,city,party,tags,state,politician,votes_up,votes_down,bias_score,user_engagement_score,trending_score,top_comment,summary
+1,2026-03-01,The National Herald,Mumbai Metro Phase 3 receives Cabinet approval boosting urban connectivity,Infrastructure,Positive,Mumbai,,,,,,,,,,,
+2,2026-03-01,Times Bulletin,Opposition criticizes Delhi pollution policy as ineffective,Environment,Negative,Delhi,,,,,,,,,,,
+3,2026-03-02,India Today,Bengaluru startup policy attracts record investments,Economy,Positive,Bengaluru,,,,,,,,,,,
+4,2026-03-02,The Hindu,New education scheme launched to modernize rural schools,Education,Neutral,National,,,,,,,,,,,
+5,2026-03-03,Economic Times,Healthcare policy reform aims to improve primary care access,Healthcare,Positive,National,,,,,,,,,,,
+6,2026-03-03,NDTV,Mass protests erupt in Kolkata over rising fuel prices,Economy,Negative,Kolkata,,,,,,,,,,,
+7,2026-03-04,Indian Express,Government announces smart city expansion in Pune,Infrastructure,Positive,Pune,,,,,,,,,,,
+8,2026-03-04,Hindustan Times,Opposition questions transparency of new defense policy,Politics,Negative,Delhi,,,,,,,,,,,
+9,2026-03-05,The Print,Delhi Cabinet approves electric vehicle subsidy scheme,Infrastructure,Positive,Delhi,,,,,,,,,,,
+10,2026-03-05,News18,Teachers union protests against new education reforms in Chennai,Education,Negative,Chennai,,,,,,,,,,,
+11,2026-03-06,Scroll,Healthcare workers demand better wages in Mumbai hospitals,Healthcare,Negative,Mumbai,,,,,,,,,,,
+12,2026-03-06,Times of India,New startup policy boosts Bengaluru tech ecosystem,Economy,Positive,Bengaluru,,,,,,,,,,,
+13,2026-03-07,The Wire,Opposition raises concerns over election funding transparency,Elections,Negative,National,,,,,,,,,,,
+14,2026-03-07,ANI,Central government launches nationwide literacy scheme,Education,Positive,National,,,,,,,,,,,
+15,2026-03-08,India Today,Infrastructure boost as highway project begins in Delhi NCR,Infrastructure,Positive,Delhi,,,,,,,,,,,
+16,2026-03-08,NDTV,Public criticism grows over healthcare policy delays,Healthcare,Negative,National,,,,,,,,,,,
+17,2026-03-09,The Hindu,New agriculture policy announced to support farmers,Economy,Neutral,National,,,,,,,,,,,
+18,2026-03-09,Indian Express,Opposition protests erupt over new tax reforms in Mumbai,Economy,Negative,Mumbai,,,,,,,,,,,
+19,2026-03-10,Times Bulletin,Bengaluru metro expansion project praised by citizens,Infrastructure,Positive,Bengaluru,,,,,,,,,,,
+20,2026-03-10,The Print,Government faces backlash over education policy changes,Education,Negative,National,,,,,,,,,,,
+21,2026-03-11,Hindustan Times,Healthcare scheme rollout improves rural access,Healthcare,Positive,National,BJP,"['scheme', 'rural', 'healthcare']",,,,,,,,,
+22,2026-03-11,News18,Election Commission announces new voting policy reforms,Elections,Neutral,Delhi,Neutral,"['election', 'policy', 'reform']",,,,,,,,,
+23,2026-03-12,Scroll,Opposition slams Cabinet over rising unemployment data,Economy,Negative,National,INC,"['opposition', 'jobs', 'economy']",,,,,,,,,
+24,2026-03-12,ANI,New skill development scheme launched in Delhi for youth,Education,Positive,Delhi,AAP,"['scheme', 'youth', 'skills']",,,,,,,,,
+25,2026-03-13,India Today,Mumbai coastal road project achieves major milestone,Infrastructure,Positive,Mumbai,BJP,"['infrastructure', 'project', 'development']",,,,,,,,,
+26,2026-03-13,NDTV,Healthcare crisis deepens in rural Bihar amid shortages,Healthcare,Negative,Bihar,RJD,"['crisis', 'healthcare', 'rural']",,,,,,,,,
+27,2026-03-14,The Hindu,Government introduces digital education policy nationwide,Education,Positive,National,BJP,"['policy', 'digital', 'education']",,,,,,,,,
+28,2026-03-14,Indian Express,Opposition calls for probe into major infrastructure contracts,Infrastructure,Negative,National,INC,"['corruption', 'infrastructure', 'probe']",,,,,,,,,
+29,2026-03-15,Times of India,Bengaluru IT policy attracts global tech giants,Economy,Positive,Bengaluru,BJP,"['IT', 'investment', 'policy']",,,,,,,,,
+30,2026-03-15,The Wire,Protests intensify over election reforms in Delhi,Elections,Negative,Delhi,AAP,"['protest', 'election', 'reform']",,,,,,,,,
+31,2026-03-16,Hindustan Times,New healthcare centers inaugurated across Uttar Pradesh,Healthcare,Positive,Uttar Pradesh,BJP,"['healthcare', 'development', 'centers']",,,,,,,,,
+32,2026-03-16,News18,Education scheme receives mixed reactions from experts,Education,Neutral,National,Neutral,"['education', 'scheme', 'analysis']",,,,,,,,,
+33,2026-03-17,Scroll,Infrastructure delays spark criticism in Mumbai metro expansion,Infrastructure,Negative,Mumbai,Shiv Sena,"['delay', 'metro', 'criticism']",,,,,,,,,
+34,2026-03-17,ANI,Government announces tax relief policy for startups,Economy,Positive,National,BJP,"['startup', 'tax', 'policy']",,,,,,,,,
+35,2026-03-18,India Today,Opposition challenges Cabinet decision on land reform policy,Politics,Negative,National,INC,"['land', 'policy', 'opposition']",,,,,,,,,
+36,2026-03-18,NDTV,Healthcare workers strike disrupts services in Delhi hospitals,Healthcare,Negative,Delhi,Neutral,"['strike', 'healthcare', 'workers']",,,,,,,,,
+37,2026-03-19,The Hindu,New university policy aims to boost research output,Education,Positive,National,BJP,"['university', 'research', 'policy']",,,,,,,,,
+38,2026-03-19,Indian Express,Infrastructure development accelerates in tier-2 cities,Infrastructure,Positive,National,BJP,"['development', 'cities', 'infrastructure']",,,,,,,,,
+39,2026-03-20,Times Bulletin,Bengaluru witnesses protests against rising housing rents,Economy,Negative,Bengaluru,Neutral,"['rent', 'protest', 'economy']",,,,,,,,,
+40,2026-03-20,The Print,Government unveils new election security policy,Elections,Neutral,Delhi,BJP,"['security', 'election', 'policy']",,,,,,,,,
+41,2026-03-21,Hindustan Times,Healthcare budget increased significantly in new policy,Healthcare,Positive,National,BJP,"['budget', 'healthcare', 'policy']",,,,,,,,,
+42,2026-03-21,News18,Opposition criticizes delay in national education reforms,Education,Negative,National,INC,"['delay', 'education', 'criticism']",,,,,,,,,
+43,2026-03-22,Scroll,Delhi announces new urban infrastructure scheme for housing,Infrastructure,Positive,Delhi,AAP,"['housing', 'scheme', 'urban']",,,,,,,,,
+44,2026-03-22,ANI,Economic policy reforms boost manufacturing sector growth,Economy,Positive,National,BJP,"['manufacturing', 'economy', 'policy']",,,,,,,,,
+45,2026-03-23,India Today,Mumbai hospitals adopt new digital healthcare system,Healthcare,Positive,Mumbai,Shiv Sena,"['digital', 'healthcare', 'technology']",,,,,,,,,
+46,2026-03-23,NDTV,Opposition protests over alleged election irregularities,Elections,Negative,National,INC,"['election', 'protest', 'fraud']",,,,,,,,,
+47,2026-03-24,The Hindu,Government launches updated national education policy framework,Education,Positive,National,BJP,"['policy', 'education', 'update']",,,,,,,,,
+48,2026-03-24,Indian Express,Infrastructure funding increased for rural road connectivity,Infrastructure,Positive,National,BJP,"['roads', 'rural', 'funding']",,,,,,,,,
+49,2026-03-25,Times of India,Bengaluru startup ecosystem sees record-breaking growth,Economy,Positive,Bengaluru,BJP,"['startup', 'growth', 'economy']",,,,,,,,,
+50,2026-03-25,The Wire,Healthcare policy faces criticism from public health activists,Healthcare,Negative,National,Neutral,"['healthcare', 'criticism', 'policy']",,,,,,,,,
+51,2026-03-26,ANI,Cabinet clears new renewable energy infrastructure scheme,Infrastructure,Positive,National,BJP,"['energy', 'scheme', 'cabinet']",,,,,,,,,
+52,2026-03-26,Scroll,Opposition alleges data manipulation in GDP growth figures,Economy,Negative,National,INC,"['GDP', 'economy', 'controversy']",,,,,,,,,
+53,2026-03-27,News18,New policy to improve government school infrastructure announced,Education,Positive,National,BJP,"['schools', 'infrastructure', 'policy']",,,,,,,,,
+54,2026-03-27,NDTV,Doctors protest nationwide against healthcare working conditions,Healthcare,Negative,National,Neutral,"['doctors', 'protest', 'healthcare']",,,,,,,,,
+55,2026-03-28,India Today,Election reforms bill introduced in Parliament,Elections,Neutral,Delhi,BJP,"['bill', 'parliament', 'election']",,,,,,,,,
+56,2026-03-28,The Print,Opposition demands rollback of new farm policy,Economy,Negative,Punjab,INC,"['farm', 'policy', 'protest']",,,,,,,,,
+57,2026-03-29,Hindustan Times,Healthcare insurance scheme expanded to cover more citizens,Healthcare,Positive,National,BJP,"['insurance', 'scheme', 'healthcare']",,,,,,,,,
+58,2026-03-29,Indian Express,Infrastructure gaps remain in rural electrification projects,Infrastructure,Negative,National,Neutral,"['electricity', 'rural', 'issues']",,,,,,,,,
+59,2026-03-30,The Hindu,Education ministry launches AI-based learning platform,Education,Positive,National,BJP,"['AI', 'education', 'technology']",,,,,,,,,
+60,2026-03-30,Times Bulletin,Economic slowdown concerns rise among industry leaders,Economy,Negative,National,Neutral,"['economy', 'slowdown', 'industry']",,,,,,,,,
+61,2026-03-31,NDTV,Cabinet approves high-speed rail corridor between Mumbai and Ahmedabad,Infrastructure,Positive,Mumbai,BJP,"['rail', 'infrastructure', 'cabinet']",Maharashtra,Narendra Modi,1240.0,320.0,0.7,,,,
+62,2026-03-31,The Wire,Opposition alleges misuse of funds in Delhi healthcare policy,Healthcare,Negative,Delhi,AAP,"['healthcare', 'corruption', 'opposition']",Delhi,Arvind Kejriwal,860.0,540.0,-0.6,,,,
+63,2026-04-01,India Today,New education policy boosts digital classrooms in Karnataka,Education,Positive,Bengaluru,INC,"['education', 'digital', 'policy']",Karnataka,Siddaramaiah,980.0,210.0,0.4,,,,
+64,2026-04-01,Scroll,Unemployment concerns rise despite government economic policy claims,Economy,Negative,National,BJP,"['jobs', 'economy', 'criticism']",India,Narendra Modi,670.0,890.0,-0.7,,,,
+65,2026-04-02,ANI,Healthcare infrastructure expanded with 200 new clinics nationwide,Healthcare,Positive,National,BJP,"['healthcare', 'clinics', 'development']",India,Mansukh Mandaviya,1430.0,300.0,0.8,,,,
+66,2026-04-02,Hindustan Times,Farmers protest against new agricultural pricing policy in Punjab,Economy,Negative,Chandigarh,AAP,"['farmers', 'protest', 'policy']",Punjab,Bhagwant Mann,760.0,650.0,-0.5,,,,
+67,2026-04-03,The Hindu,Election Commission introduces AI-based monitoring system,Elections,Positive,Delhi,Neutral,"['election', 'AI', 'monitoring']",India,Rajiv Kumar,1120.0,180.0,0.3,,,,
+68,2026-04-03,The Print,Opposition questions transparency of Bengaluru metro expansion costs,Infrastructure,Negative,Bengaluru,INC,"['metro', 'cost', 'transparency']",Karnataka,D.K. Shivakumar,540.0,620.0,-0.4,,,,
+69,2026-04-04,News18,Startup ecosystem grows rapidly under new economic policy,Economy,Positive,Hyderabad,INC,"['startup', 'growth', 'policy']",Telangana,Revanth Reddy,1290.0,200.0,0.6,,,,
+70,2026-04-04,NDTV,Healthcare staff shortages affect services in rural Rajasthan,Healthcare,Negative,Jaipur,BJP,"['healthcare', 'shortage', 'rural']",Rajasthan,Bhajan Lal Sharma,480.0,710.0,-0.6,,,,
+71,2026-04-05,India Today,Major highway expansion project launched in Uttar Pradesh,Infrastructure,Positive,Lucknow,BJP,"['highway', 'infrastructure', 'development']",Uttar Pradesh,Yogi Adityanath,1500.0,400.0,0.8,,,,
+72,2026-04-05,Scroll,Opposition accuses government of weakening election transparency laws,Elections,Negative,National,INC,"['election', 'laws', 'criticism']",India,Mallikarjun Kharge,720.0,830.0,-0.8,,,,
+73,2026-04-06,ANI,New AI-based education tools introduced in government schools,Education,Positive,Delhi,AAP,"['AI', 'education', 'schools']",Delhi,Atishi Marlena,990.0,210.0,0.5,,,,
+74,2026-04-06,The Wire,Economic inequality widens despite growth claims by Cabinet,Economy,Negative,National,BJP,"['inequality', 'economy', 'criticism']",India,Narendra Modi,640.0,950.0,-0.9,,,,
+75,2026-04-07,The Hindu,Government launches universal healthcare expansion scheme,Healthcare,Positive,National,BJP,"['healthcare', 'scheme', 'national']",India,Narendra Modi,1800.0,300.0,0.9,,,,
+76,2026-04-07,Indian Express,Opposition protests erupt over education budget cuts,Education,Negative,Delhi,INC,"['education', 'budget', 'protest']",India,Rahul Gandhi,800.0,720.0,-0.7,,,,
+77,2026-04-08,NDTV,Cabinet approves nationwide electric bus infrastructure push,Infrastructure,Positive,National,BJP,"['EV', 'transport', 'cabinet', 'green']",India,Nitin Gadkari,1620.0,210.0,0.8,88.0,82.0,Finally a move towards cleaner cities and better public transport.,Government pushes EV infrastructure with focus on electric buses nationwide.
+78,2026-04-08,The Wire,Opposition alleges irregularities in new housing scheme rollout,Infrastructure,Negative,Delhi,INC,"['housing', 'corruption', 'scheme']",India,Rahul Gandhi,720.0,940.0,-0.8,91.0,87.0,Every scheme ends up with corruption allegations these days.,Criticism rises over alleged corruption in housing scheme implementation.
+79,2026-04-09,India Today,AI-powered learning system rolled out in Mumbai public schools,Education,Positive,Mumbai,Shiv Sena,"['AI', 'education', 'schools']",Maharashtra,Eknath Shinde,1340.0,260.0,0.6,85.0,78.0,This could change how government schools teach students.,Mumbai introduces AI tools in classrooms to improve education quality.
+80,2026-04-09,Scroll,Healthcare budget cuts spark protests among doctors in Karnataka,Healthcare,Negative,Bengaluru,INC,"['healthcare', 'budget', 'protest']",Karnataka,Siddaramaiah,690.0,880.0,-0.7,89.0,84.0,Doctors protesting means something is seriously wrong.,Medical professionals protest against reduced healthcare funding.
+81,2026-04-10,ANI,Government launches national employment generation scheme,Economy,Positive,National,BJP,"['jobs', 'scheme', 'economy']",India,Narendra Modi,2100.0,500.0,0.9,95.0,93.0,"If implemented properly, this can reduce unemployment massively.",New employment scheme aims to create jobs across multiple sectors.
+82,2026-04-10,NDTV,Opposition questions feasibility of ambitious employment policy,Economy,Negative,National,INC,"['jobs', 'criticism', 'policy']",India,Mallikarjun Kharge,870.0,960.0,-0.6,90.0,88.0,"Big promises, but execution is always the problem.",Critics doubt feasibility of newly launched employment scheme.
+83,2026-04-11,The Hindu,Election Commission strengthens digital voting security measures,Elections,Positive,Delhi,Neutral,"['election', 'security', 'digital']",India,Rajiv Kumar,1220.0,140.0,0.5,78.0,70.0,Good step towards transparent elections.,Election body enhances cybersecurity for digital voting systems.
+84,2026-04-11,The Print,Opposition alleges bias in election monitoring systems,Elections,Negative,Delhi,INC,"['election', 'bias', 'controversy']",India,Rahul Gandhi,640.0,780.0,-0.8,82.0,79.0,Trust in elections is slowly declining.,Concerns raised about neutrality of election monitoring systems.
+85,2026-04-12,News18,Massive infrastructure investment announced for rural India,Infrastructure,Positive,National,BJP,"['rural', 'infrastructure', 'investment']",India,Narendra Modi,2300.0,420.0,0.9,96.0,94.0,Rural development is finally getting attention.,Government allocates large funds for rural infrastructure development.
+86,2026-04-12,Scroll,Villagers claim infrastructure projects remain incomplete despite funding,Infrastructure,Negative,Patna,JDU,"['rural', 'failure', 'infrastructure']",Bihar,Nitish Kumar,560.0,840.0,-0.7,87.0,83.0,Funds are announced but rarely reach ground reality.,Ground reports highlight incomplete infrastructure despite investments.
+87,2026-04-13,India Today,New healthcare AI system reduces patient waiting time in Delhi hospitals,Healthcare,Positive,Delhi,AAP,"['AI', 'healthcare', 'efficiency']",Delhi,Arvind Kejriwal,1500.0,300.0,0.7,89.0,86.0,Technology is finally solving real healthcare issues.,AI system improves efficiency in hospital patient management.
+88,2026-04-13,NDTV,Healthcare workers protest unpaid salaries in multiple states,Healthcare,Negative,National,Neutral,"['healthcare', 'protest', 'salary']",India,Neutral,780.0,1020.0,-0.8,92.0,90.0,Essential workers deserve better treatment.,Protests erupt nationwide over delayed payments to healthcare staff.
+89,2026-04-14,The Hindu,Education ministry announces scholarship scheme for underprivileged students,Education,Positive,National,BJP,"['education', 'scholarship', 'scheme']",India,Dharmendra Pradhan,1750.0,250.0,0.8,91.0,88.0,This will help many deserving students.,New scholarships aim to improve access to education for poor students.
+90,2026-04-14,The Wire,Opposition claims education reforms ignore rural challenges,Education,Negative,National,INC,"['education', 'rural', 'criticism']",India,Rahul Gandhi,690.0,880.0,-0.7,85.0,82.0,Rural India always gets ignored in big reforms.,Critics argue education reforms fail to address rural issues.
+91,2026-04-15,ANI,Economic growth rate exceeds expectations in latest report,Economy,Positive,National,BJP,"['GDP', 'economy', 'growth']",India,Nirmala Sitharaman,1900.0,400.0,0.8,93.0,91.0,Strong growth shows policies are working.,"India's GDP growth surpasses projections, boosting economic confidence."
+92,2026-04-15,Scroll,Experts warn of hidden economic slowdown despite growth figures,Economy,Negative,National,Neutral,"['economy', 'analysis', 'risk']",India,Neutral,810.0,950.0,-0.6,88.0,86.0,Numbers don't always reflect reality.,Analysts highlight underlying weaknesses in economy despite growth.
